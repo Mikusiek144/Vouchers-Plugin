@@ -1,0 +1,8 @@
+name: VoucherPlugin
+version: 1.0
+main: me.mikusiek.voucherplugin.Main
+api-version: 1.20
+commands:
+  voucher:
+    description: Użyj vouchera
+    usage: /voucher <kod>

@@ -1,0 +1,9 @@
+vouchers:
+  - "VOUCHER1"
+  - "VOUCHER2"
+voucher-commands:
+  "VOUCHER1": "give {player} diamond 1"
+  "VOUCHER2": "give {player} gold_ingot 1"
+voucher-uses:
+  "VOUCHER1": 5 # Liczba użyć
+  "VOUCHER2": 3 # Liczba użyć
