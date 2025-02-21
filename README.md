@@ -1,2 +1,1 @@
-# Plugin-Na-Vouchery
-Vouchers Plugin
+# Vouchers Plugin
