@@ -1,0 +1,15 @@
+VoucherPlugin/
+        ├── src/
+        │   └── main/
+        │       ├── java/
+        │       │   └── me/
+        │       │       └── mikusiek/
+        │       │           └── voucherplugin/
+        │       │               ├── Main.java
+        │       │               ├── commands/
+        │       │               │   └── VoucherCommand.java
+        │       │               └── voucher/
+        │       │                   └── VoucherManager.java
+        │       └── resources/
+        │           └── plugin.yml
+        │           └── config.yml
