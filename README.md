@@ -1,1 +1,1 @@
-# Vouchers Plugin
+# Vouchers
